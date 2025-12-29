@@ -10,16 +10,18 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/vicvilla30)**
 
-- 👯 I’m looking forward to collaborate on open source projects.
+- 🔭 I’m currently working in the field of Network & Systems Support / Infrastructure Engineering.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 🛰️ My experience includes fiber optics, patching, ODF/ODF labeling, network maintenance, and field service operations.
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 🖥️ I’m also building skills in Linux & Windows Server administration, VMware, and IT infrastructure.
 
-- 😄 Pronouns: He/Him/We
+- 📚 I use this GitHub to share technical documentation, lab practices, troubleshooting notes, and infrastructure projects.
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
+- 🤝 I’m open to collaborating on projects related to networks, sysadmin, infrastructure, and IT support.
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 💬 Ask me about network troubleshooting, structured cabling, fiber optics, and IT field operations —happy to help when I can!
+
+- 🌎 Always learning and improving my skills in servers, networking, and infrastructure engineering.
