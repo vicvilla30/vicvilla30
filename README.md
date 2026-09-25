@@ -10,18 +10,35 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/vicvilla30)**
+## 🙋 About me
 
-- 🔭 I’m currently working in the field of Network & Systems Support / Infrastructure Engineering.
+- 🌐 **Network & Systems Support / Infrastructure** technician based in Panama City, Panama
+- 🔌 Hands-on experience with **fiber optics, patching, ODF labeling, structured cabling, network maintenance** and field service operations
+- 📹 Installation and support of **CCTV / NVR systems**, switching and Wi-Fi for enterprise clients
+- 🖥️ Building skills in **Linux / Windows Server** administration and **VMware** virtualization
+- 🐳 Currently expanding into **containers, monitoring and automation** through a hands-on homelab
+- 📚 I use GitHub for technical documentation, lab notes and infrastructure projects
+- 🤝 Open to collaborating on networking, sysadmin and infrastructure projects
+- 💬 Ask me about network troubleshooting, structured cabling, fiber optics and IT field operations
 
-- 🛰️ My experience includes fiber optics, patching, ODF/ODF labeling, network maintenance, and field service operations.
+## 🛠️ Tech I work with
 
-- 🖥️ I’m also building skills in Linux & Windows Server administration, VMware, and IT infrastructure.
+- **Networking:** switching, VLANs, subnetting, Wi-Fi, SNMP, DNS
+- **Infrastructure:** fiber optics, structured cabling, CCTV / NVR, Active Directory, service desk
+- **Containers & monitoring:** Docker, Docker Compose, Prometheus, Grafana, Uptime Kuma, Pi-hole
+- **Tools:** Git, PowerShell, Python, VS Code
 
-- 📚 I use this GitHub to share technical documentation, lab practices, troubleshooting notes, and infrastructure projects.
+## 🚀 Featured project
 
-- 🤝 I’m open to collaborating on projects related to networks, sysadmin, infrastructure, and IT support.
+**[homelab](https://github.com/vicvilla30/homelab)**: a Docker Compose lab with a service dashboard, uptime monitoring with Telegram alerts, DNS filtering, and Prometheus + Grafana dashboards for Windows metrics and SNMP network devices.
 
-- 💬 Ask me about network troubleshooting, structured cabling, fiber optics, and IT field operations —happy to help when I can!
+## 📈 Currently learning
 
-- 🌎 Always learning and improving my skills in servers, networking, and infrastructure engineering.
+- Linux server administration
+- Network monitoring with SNMP and Grafana
+- Kubernetes (k3s) and infrastructure automation
+
+## 🎓 Background
+
+- Licenciatura en Redes Informáticas, Universidad Tecnológica de Panamá
+- Active JTIA professional license (Panama)
